@@ -1,0 +1,5 @@
+{
+  "name": "Padel 3x9 Tournament Manager",
+  "description": "An application to manage and view Padel 3x9 tournaments in real-time, featuring live scoring, rankings, and AI-powered summaries. Includes an admin mode for tournament management, a spectator mode, and a full simulation mode for testing.",
+  "requestFramePermissions": []
+}
